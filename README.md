@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flaviabrgs
-- 👀 I’m interested in HTML, CSS, JS and UX Designer 
+- 👀 I’m interested in HTML, CSS, JS and UX Design 
 - 🌱 I’m currently learning everything about Front End
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
